@@ -2,10 +2,8 @@
 
 List of all currencies with names and ISO 4217 codes in all languages.
 
-## Formats Available
-
-* PHP
-* JSON
+This is a fork from [umpirsky/country-list](https://github.com/umpirsky/language-list), but only with PHP array and a filesize about 10% of the
+original package.
 
 ## Install
 
